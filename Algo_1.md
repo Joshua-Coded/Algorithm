@@ -26,14 +26,14 @@ Software Development LifeCycle is divided into 2 majorly
 * Testing 
   <-------------------------------->
 
-#The Priori Analysis
+# The Priori Analysis
 * Algorithm
 * Independent of Language
 * Hardware Independent
 * Time and Space Function
 
 
-#The Posterion Testing
+# The Posterion Testing
 * Program
 * Langauage dependent
 * Hardware dependent
