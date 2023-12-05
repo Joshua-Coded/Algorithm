@@ -12,6 +12,7 @@
 * The Implementation
 
 
+# Algorithm
 * Algorithm are written at Design Time.
 * The writer of Algorthm should have a domain knowledge
 * Any language can be used, or mathematical Notation can be used, as long as they are understandable by the user.
@@ -19,16 +20,14 @@
 * Analyze 
 
 
-  <---------------------------------->
-
+# Programs
 * Programs  are written at Implementation Time 
 * The writer of programs are programmers
 * A Programming Langauge
 * They are independent of Hardware and Software OS 
 * Testing 
 
-  <-------------------------------->
-
+  
 # The Priori Analysis
 * Algorithm
 * Independent of Language
@@ -42,6 +41,7 @@
 * Hardware dependent
 * Watch time and bytes
 
+
 # Characteristics of Algorithm
 
 
@@ -50,3 +50,24 @@
 *  Definiteness
 *  Finiteness
 *  Effectiveness  
+
+# How to Write an Algorithm
+
+* Algorithm Swap(a, b)
+	Begin
+		temp <-- a;
+		a <-- b;
+		b <-- temp;
+	End
+
+
+# How to Analyze an Algorithm
+* Time
+* Space 
+* Network Consumption
+* Power Consumption
+* CPU Registers
+
+# N.B 
+That every Statement in an ALgorithm takes 1 unit of time
+And that each variable defined takes unit of space
