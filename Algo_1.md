@@ -1,21 +1,23 @@
-* What is an Algorithm:
+# What is an Algorithm:
 
-This is a step by step procedure for solving computational problems.
+* This is a step by step procedure for solving computational problems.
 
-* How about Programs: 
+# How about Programs: 
 
-They are also step by step procedure for solving problems.
+* They are also step by step procedure for solving problems.
 
-Software Development LifeCycle is divided into 2 majorly
+# Software Development LifeCycle is divided into 2 majorly
 
 * The Design
 * The Implementation
+
 
 * Algorithm are written at Design Time.
 * The writer of Algorthm should have a domain knowledge
 * Any language can be used, or mathematical Notation can be used, as long as they are understandable by the user.
 * Hardware and Software OS
 * Analyze 
+
 
   <---------------------------------->
 
@@ -24,6 +26,7 @@ Software Development LifeCycle is divided into 2 majorly
 * A Programming Langauge
 * They are independent of Hardware and Software OS 
 * Testing 
+
   <-------------------------------->
 
 # The Priori Analysis
@@ -38,3 +41,12 @@ Software Development LifeCycle is divided into 2 majorly
 * Langauage dependent
 * Hardware dependent
 * Watch time and bytes
+
+# Characteristics of Algorithm
+
+
+*  Input
+*  Output
+*  Definiteness
+*  Finiteness
+*  Effectiveness  
